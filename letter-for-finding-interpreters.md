@@ -2,7 +2,7 @@ _This is an email similar to what I (as a Deaf professional) would send if I wer
 
 # Email text 
 
-Hello! **[COLLEAGUE'S NAME]** said you were a great ASL interpreter in the **[CITY NAME]** area and might be able to help.
+Hello! **[COLLEAGUE'S NAME]** said you might be a good fit for me; I'm looking for ASL interpreters in the **[CITY NAME]** area.
 
 I am a **[d/Deaf/HoH, however you identify]** **[PROFESSION (chemistry professor, lawyer, anthropology PhD student, CEO, whatever)]** at **[YOUR INSTITUTION'S NAME]**. I am in **[CITY NAME]** for **[REASON (a conference, graduate school, client visit, job interview, etc.)]** and am looking for ASL interpreters for **[DATES, TIMES, LOCATIONS]**.
 
