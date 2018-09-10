@@ -2,7 +2,7 @@ _This is an email similar to what I (as a Deaf professional) would send if I wer
 
 # Email text 
 
-Hello! **[FRIEND'S NAME]** said you were a great ASL interpreter in the **[CITY NAME]** area and might be able to help.
+Hello! **[COLLEAGUE'S NAME]** said you were a great ASL interpreter in the **[CITY NAME]** area and might be able to help.
 
 I am a **[d/Deaf/HoH, however you identify]** **[PROFESSION (chemistry professor, lawyer, anthropology PhD student, CEO, whatever)]** at **[YOUR INSTITUTION'S NAME]**. I am in **[CITY NAME]** for **[REASON (a conference, graduate school, client visit, job interview, etc.)]** and am looking for ASL interpreters for **[DATES, TIMES, LOCATIONS]**.
 
@@ -30,7 +30,7 @@ I know this isn't everything, but I would be happy to answer any other questions
 
 # Email breakdown
 
-* Networks are everything, interpreters love it when someone thinks well of their work, so saying "my friend said you were good" is a great compliment (and if your friend has given you their contact information, they've done so for a reason!)
+* Networks are everything, interpreters love it when someone thinks well of their work, so saying "my colleague said you were good" is a great compliment (and if your colleague has given you their contact information, they've done so for a reason!)
 * starting off with "I'm a DHH person!" also immediately grabs their attention; you're not some random clueless agency they get a million emails from every day
 * "I'm a DHH professional, and you can help me do that!" is also a big deal. DHH professionals are rare; you're changing that by virtue of just existing (I know, I know, hopefully this won't be so special later... but right now, we are on the front lines). The chance to push DHH professional work forward is pretty exciting.
 * There's the usual "I have done my homework" section that shows you know your stuff; if your host institution / school / event / company /whatever is being clueless, make a note of that so they can help.
