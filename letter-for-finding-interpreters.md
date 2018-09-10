@@ -6,11 +6,13 @@ Hello! **[COLLEAGUE'S NAME]** said you might be a good fit for me; I'm looking f
 
 I am a **[d/Deaf/HoH, however you identify]** **[PROFESSION (chemistry professor, lawyer, anthropology PhD student, CEO, whatever)]** at **[YOUR INSTITUTION'S NAME]**. I am in **[CITY NAME]** for **[REASON (a conference, graduate school, client visit, job interview, etc.)]** and am looking for ASL interpreters for **[DATES, TIMES, LOCATIONS]**.
 
+I am doing **[EVENT]**, and the organizer of **[EVENT]** has aksed me to recommend interpreters for the event.
+
 **Describe the steps you have taken so far to find interpreters:**
 * Have you asked the host institution to look (what have they said?)
 * Have contacted other local interpreters, if you know any?
 * Have you tried to find agencies?
-...but I haven't had any luck, so I'm stuck **[COPING MECHANISM (speechreading? writing back and forth? cancelling the interview?)]** unless we can figure out another solution... any help you can provide would be much appreciated!
+* ...but I haven't had any luck, so I'm stuck **[COPING MECHANISM (speechreading? writing back and forth? cancelling the interview?)]** unless we can figure out another solution... any help you can provide would be much appreciated!
 
 **Describe the job as much as you can:**
 * What is the setting? What will it look like -- lecture hall, circular seating, coffeeshop, private office, etc.?
