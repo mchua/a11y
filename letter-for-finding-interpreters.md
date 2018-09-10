@@ -8,7 +8,7 @@ I am a **[d/Deaf/HoH, however you identify]** **[PROFESSION (chemistry professor
 
 I am doing **[EVENT]**, and the organizer of **[EVENT]** has aksed me to recommend interpreters for the event.
 
-**Describe the steps you have taken so far to find interpreters:**
+**(Optional) Describe the steps you have taken so far to find interpreters:**
 * Have you asked the host institution to look (what have they said?)
 * Have contacted other local interpreters, if you know any?
 * Have you tried to find agencies?
