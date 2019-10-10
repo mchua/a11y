@@ -14,11 +14,11 @@
 1. Please type if you are communicating directly to me! That having been said, if it’s brief and typing is impossible (walking, etc.) it’s okay to get my visual attention and then speak.
 1. Whether you are remote or in-person, please communicate with me via the captions window, not in a separate chat window; I often have those closed so I can see more captions on the screen. For instance:
 
-> [Alice]: Have we agreed on an algorithm?
->
-> [CAPTIONER]: Move the mic closer to the speaker
-> 
-> [Bob]: I think so. I can send you my key soon.
+  > [Alice]: Have we agreed on an algorithm?
+  >
+  > [CAPTIONER]: Move the mic closer to the speaker
+  > 
+  > [Bob]: I think so. I can send you my key soon.
 
 1. Let me know how you'd prefer me to send messages back to you. If I message while you're captioning, please don’t respond until there’s a lapse in the conversation or you are otherwise able to respond without compromising the speed or quality of the captions. If it’s urgent and needs an immediate response, I’ll indicate it in my message. 
 1. If you drop a word, please indicate that! If you’re not sure about a word and need to spell it out phonetically, please indicate that! I’m used to predicting vocabulary and have a high chance of being able to guess the right word and spell it back to you.
