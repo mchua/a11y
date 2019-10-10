@@ -15,7 +15,9 @@
 1. Whether you are remote or in-person, please communicate with me via the captions window, not in a separate chat window; I often have those closed so I can see more captions on the screen. For instance:
 
 > [Alice]: Have we agreed on an algorithm?
+>
 > [CAPTIONER]: Move the mic closer to the speaker
+> 
 > [Bob]: I think so. I can send you my key soon.
 
 1. Let me know how you'd prefer me to send messages back to you. If I message while you're captioning, please don’t respond until there’s a lapse in the conversation or you are otherwise able to respond without compromising the speed or quality of the captions. If it’s urgent and needs an immediate response, I’ll indicate it in my message. 
